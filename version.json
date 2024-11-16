@@ -1,12 +1,12 @@
 {
     "platformValues": {
-      "python_linux": "3.2.7",
-      "python_macos": "3.2.7",
-      "python_windows": "3.2.7",
+      "python_linux": "3.2.8",
+      "python_macos": "3.2.8",
+      "python_windows": "3.2.8",
       "python_auga": "3.0.0",
       "python_buga": "6.0.0",
       "python_cuga": "3.2.8",
-      "android": "7.6.6"
+      "android": "7.2.0"
     }
   }
   
